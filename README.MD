@@ -1,1 +1,0 @@
-## clase de diseño digital
